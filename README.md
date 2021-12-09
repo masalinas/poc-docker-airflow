@@ -32,6 +32,8 @@ docker-compose up
 http://localhost:8080
 ```
 
+![Airflow UI Service](captures/airflow-ui.png "Airflow UI Service")
+
 Default credentials are: airflow/airflow
 
 - We could access airflow CLI from:
