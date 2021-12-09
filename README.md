@@ -6,7 +6,7 @@ PoC Apache Airflow installed under docker compose on Ubuntu 20.04 LTS
 - Imstaall docker-compose 1.29+
 
 # Installation
-- Create a airflow working folder:
+- Create an airflow working folder:
 - Download docker-compose.yaml deployment file:
 ```shell
 curl -LfO 'https://airflow.apache.org/docs/apache-airflow/2.2.2/docker-compose.yaml'
