@@ -43,7 +43,7 @@ curl -LfO 'https://airflow.apache.org/docs/apache-airflow/2.2.2/airflow.sh'
 chmod +x airflow.sh
 ```
 
-Go inside airflow container
+Go inside airflow container to execute aiarflow CLI commands
 ```shell
 ./airflow.sh bash
 ```
