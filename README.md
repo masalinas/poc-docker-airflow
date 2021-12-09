@@ -19,11 +19,11 @@ mkdir -p ./dags ./logs ./plugins
 ```shell
 echo -e "AIRFLOW_UID=$(id -u)" > .env
 ```
-- Initialize PostgresSQL and Redis repositories
+- Initialize PostgresSQL and Redis airflow repositories
 ```shell
 docker-compose up airflow-init
 ```
-- Init the airflow services
+- Start the airflow services
 ```shell
 docker-compose up
 ```
