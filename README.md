@@ -27,14 +27,12 @@ docker-compose up airflow-init
 ```shell
 docker-compose up
 ```
-- Now we could access airflow UI from
+- Now we could access airflow UI with default credentials: airflow/airflow from this uri:
 ```shell
 http://localhost:8080
 ```
 
 ![Airflow UI Service](captures/airflow-ui.png "Airflow UI Service")
-
-Default credentials are: airflow/airflow
 
 - We could access airflow CLI from:
 First download a wrapper 
