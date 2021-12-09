@@ -3,7 +3,7 @@ PoC Apache Airflow installed under docker compose on Ubuntu 20.04 LTS
 
 # Prerequisites
 - Install docker CE 20.10+ 
-- Imstaall docker-compose 1.29+
+- Install docker-compose 1.29+
 
 # Installation
 - Create an airflow working folder:
